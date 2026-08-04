@@ -1,0 +1,13 @@
+.DS_Store
+
+# Valenox: intermediate/build-scratch and Play Store submission assets.
+# Not referenced by index.html / privacy-policy.html — kept locally only.
+valenox/assets/raw/*.mp4
+valenox/assets/ad_build/
+valenox/assets/music/
+valenox/assets/play_screenshots/
+valenox/assets/valenox-ad-1080p.mp4
+valenox/assets/valenox-ad-thumbnail.jpg
+valenox/assets/feature-graphic*.png
+valenox/assets/feature-graphic*.html
+valenox/assets/valenox-icon-*.png
